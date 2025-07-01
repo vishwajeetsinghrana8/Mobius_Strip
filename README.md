@@ -35,7 +35,7 @@ Though it began as a mathematical curiosity, the Möbius strip has found applica
 
 ---
 
-## 📦 How to Compile & Run
+## 📦 How to Compile & Run in C
 
 ```bash
 gcc main.c -o main -lm
