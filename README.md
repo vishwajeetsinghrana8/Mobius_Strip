@@ -32,3 +32,16 @@ Though it began as a mathematical curiosity, the Möbius strip has found applica
 * **Mathematical modeling** of surfaces
 * **Art and sculpture** (symbolizing infinity and unity)
 * **Theoretical physics**, especially in **string theory** and **non-orientable manifolds**
+
+---
+
+## 📦 How to Compile & Run
+
+```bash
+gcc main.c -o main -lm
+./main
+```
+
+* This will generate `mobius_strip.obj`
+* Open it in [**Blender**](https://www.blender.org/), [**MeshLab**](https://www.meshlab.net/), or [**FreeCAD**](https://www.freecad.org/) to view the Möbius strip in 3D.
+
